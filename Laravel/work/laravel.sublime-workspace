@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sq",
+				"sqlite"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"ab",
+				"about"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"conta",
+				"contacts"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"R",
+				"Route"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"last_filter": "bla",
+		"selected_items":
+		[
+			[
+				"bla",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Prodżekt/Laravel/laravel/app",
+		"/D/Prodżekt/Laravel/laravel/config",
+		"/D/Prodżekt/Laravel/laravel/database",
+		"/D/Prodżekt/Laravel/laravel/public",
+		"/D/Prodżekt/Laravel/laravel/resources",
+		"/D/Prodżekt/Laravel/laravel/routes"
+	],
+	"file_history":
+	[
+		"/D/Prodżekt/Laravel/laravel/resources/views/pages/about.blade.php",
+		"/D/Prodżekt/Laravel/laravel/.env",
+		"/D/Prodżekt/Laravel/kopie_zapasowe",
+		"/D/Prodżekt/Laravel/laravel/public/css/custom.css",
+		"/D/Prodżekt/Laravel/laravel/resources/views/master.blade.php",
+		"/D/Prodżekt/Laravel/laravel/resources/views/pages/contacts.blade.php",
+		"/D/Prodżekt/Laravel/laravel/config/database.php",
+		"/D/Prodżekt/Laravel/laravel/app/Http/Controllers/PagesController.php",
+		"/D/Prodżekt/Laravel/laravel/routes/web.php",
+		"/D/Programy/Xampp/php/php.ini",
+		"/D/Prodżekt/Laravel/laravel/CHANGELOG.md",
+		"/D/Prodżekt/Laravel/laravel/server.php",
+		"/D/Prodżekt/Laravel/laravel/package.json",
+		"/D/Programy/Xampp/php/CompatInfo.php",
+		"/D/Prodżekt/Laravel/laravel/composer.json",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/.env.example",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/.env",
+		"/D/Prodżekt/Laravel/laravel/database/database.sqlite",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/database/database.sqlite",
+		"/D/Prodżekt/Laravel/laravel/vendor/bin/phpunit",
+		"/D/Prodżekt/Laravel/laravel/.env.example",
+		"/D/Prodżekt/Laravel/laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Prodżekt/Laravel/laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/Prodżekt/Laravel/laravel/config/app.php",
+		"/D/Prodżekt/Laravel/laravel/readme.md",
+		"/D/Prodżekt/Laravel/laravel/public/.htaccess",
+		"/D/Prodżekt/Laravel/laravel/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/css/style.css",
+		"/D/Prodżekt/Laravel/laravel/resources/views/welcome.blade.php",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/lekcje/2/2_4/index.html",
+		"/D/Prodżekt/Laravel/laravel/routes/console.php",
+		"/D/Prodżekt/Laravel/laravel/routes/channels.php",
+		"/D/Prodżekt/Laravel/laravel/phpunit.xml",
+		"/D/Prodżekt/Laravel/laravel/webpack.mix.js",
+		"/D/Prodżekt/Laravel/laravel/composer.lock",
+		"/D/Prodżekt/Laravel/laravel/.gitattributes",
+		"/D/Prodżekt/Laravel/laravel/artisan",
+		"/D/Prodżekt/Laravel/laravel/.gitignore",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/logowanie.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/index.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/purchanse.txt",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/zakup.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/laczenie_z_baza.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/wyloguj.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/rejestruj.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/users.sql",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/books.sql",
+		"/C/Users/Konrad/AppData/Roaming/Composer/composer.json",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/composer.json",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/public/index.php",
+		"/D/Laravel/materialy_do_kursu/materialy_do_kursu/kompletny_kod/kurs_laravel/kurs_laravel/server.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/albums.sql",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/logowanie.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/laczenie_z_baza.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/index.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/albums.sql",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/zakup.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/wyloguj.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/users.sql",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_02/rejestruj.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/login.txt",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/PHP_01/logout.php",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/index.txt",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/logout.txt",
+		"/C/Users/Konrad/Desktop/#1/sss/sss/register.txt",
+		"/C/Users/Konrad/Desktop/index2.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pdo",
+			"album",
+			"movies",
+			"Register",
+			"client",
+			"client_id",
+			"birthday",
+			"$res",
+			"$pdo",
+			"php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

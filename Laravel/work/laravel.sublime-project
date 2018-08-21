@@ -1,0 +1,35 @@
+{
+	"folders":
+	[
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\app"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\bootstrap"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\config"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\database"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\public"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\resources"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\routes"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\storage"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\tests"
+		},
+		{
+			"path": "D:\\Prodżekt\\Laravel\\laravel\\vendor"
+		}
+	]
+}
